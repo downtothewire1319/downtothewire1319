@@ -2,10 +2,10 @@
 
 I'm a passionate Front-End Developer with expertise in JavaScript, React, HTML, CSS, and Tailwind CSS.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Next.js]
+- 🔭 I’m currently working on cloning sharetrip
+- 🌱 I’m currently learning Next.js
 - 💬 Ask me about JavaScript, React, or anything related to Front-End Development
-- 📫 How to reach me: [manowar.cse@gmail.com]
+- 📫 How to reach me: manowar.cse@gmail.com
 - 😄 Pronouns: He/Him
 
 ## Skills
@@ -25,9 +25,9 @@ Here are some projects I've worked on:
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/manowar-cse)
 - [Twitter]([https://twitter.com/](https://twitter.com/THeMTNPaTieNCe))
-- [Portfolio](https://your-portfolio.com)
+
 
 ## 🚀
 
