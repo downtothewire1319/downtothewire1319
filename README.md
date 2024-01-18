@@ -2,7 +2,7 @@
 
 I'm a passionate Front-End Developer with expertise in JavaScript, React, HTML, CSS, and Tailwind CSS.
 
-- 🔭 I’m currently working on cloning sharetrip
+- 🔭 I’m currently working on cloning share-trip project
 - 🌱 I’m currently learning Next.js
 - 💬 Ask me about JavaScript, React, or anything related to Front-End Development
 - 📫 How to reach me: manowar.cse@gmail.com
@@ -14,7 +14,7 @@ I'm a passionate Front-End Developer with expertise in JavaScript, React, HTML, 
 - **Libraries/Frameworks:** React.js
 - **CSS Frameworks:** Tailwind CSS
 - **Version Control:** Git
-- **Other Tools:** [vsocde,codeblocks]
+- **Other Tools:** vsocde,codeblocks
 
 ## Projects
 
