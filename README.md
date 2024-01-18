@@ -26,7 +26,7 @@ Here are some projects I've worked on:
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/manowar-cse)
-- [Twitter]([https://twitter.com/](https://twitter.com/THeMTNPaTieNCe))
+- [Twitter]([https://twitter.com/](https://twitter.com/THeMTNPaTieNCe)
 
 
 ## 🚀
