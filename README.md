@@ -10,8 +10,8 @@ I'm a passionate Front-End Developer with expertise in JavaScript, React, HTML, 
 
 ## Skills
 
-- **Languages:** JavaScript, HTML, CSS
-- **Libraries/Frameworks:** React.js
+- **Languages:** JavaScript, HTML, CSS,C++,TypeScript
+- **Libraries/Frameworks:** React.js,Next.js
 - **CSS Frameworks:** Tailwind CSS
 - **Version Control:** Git
 - **Other Tools:** vsocde,codeblocks
